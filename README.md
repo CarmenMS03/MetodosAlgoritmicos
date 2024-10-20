@@ -1,5 +1,2 @@
-# Ejercicios del juez
-## Árboles
-
-## Colas de prioridad
+# Repositorio activo para no quedarme calva con MARP
 
