@@ -9,4 +9,4 @@
 - Ejercicio 7: Wrong Answer
 - Ejercicio 8: Correct
 - Ejercicio 9: Correct
-- Ejercicio 1o: Correct
+- Ejercicio 10: Correct
