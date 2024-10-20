@@ -1,2 +1,5 @@
-# Taller
-El taller de git de 17/10/2024
+# Ejercicios del juez
+## Árboles
+
+## Colas de prioridad
+
