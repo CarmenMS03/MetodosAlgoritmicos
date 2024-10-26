@@ -10,3 +10,5 @@
 - Ejercicio 8: Correct
 - Ejercicio 9: Correct
 - Ejercicio 10: Correct
+# Grafos
+- Ejercicio 12: Correct
