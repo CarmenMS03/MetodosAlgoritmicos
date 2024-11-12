@@ -11,6 +11,8 @@
 - Ejercicio 9: Correct
 - Ejercicio 10: Correct
 # Grafos
+- Ejercicio 11: Correct
 - Ejercicio 12: Correct
+- Ejercicio 14: Correct
 - Ejercicio 15: Correct
 - Ejercicio 16: Correct
