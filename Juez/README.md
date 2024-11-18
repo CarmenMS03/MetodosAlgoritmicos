@@ -17,3 +17,10 @@
 - Ejercicio 14: Correct
 - Ejercicio 15: Correct
 - Ejercicio 16: Correct
+- Ejercicio 17: Wrong Answer
+- Ejercicio 18: Wrong Answer
+- Ejercicio 19: TL
+- Ejercicio 20: Correct
+- Ejercicio 21: Correct
+- Ejercicio 22: Correct
+
